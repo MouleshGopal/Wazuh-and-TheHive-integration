@@ -1,0 +1,1 @@
+# Wazuh-and-TheHive-integration
